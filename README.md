@@ -1,3 +1,3 @@
 # software-development
-This is lab practice of the software development.
-this is the first lab
+This is first  lab  of the software development.
+
